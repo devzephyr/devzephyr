@@ -29,7 +29,7 @@ proper authorization and consent.
 
 **Sources:**
 
-adeyemi.ca was inspired by other blogs. I hope my work can contribute to the
+blog.adeyemi.xyz was inspired by other blogs. I hope my work can contribute to the
 existing community of security enthusiasts.
 
 **Contact me:**
